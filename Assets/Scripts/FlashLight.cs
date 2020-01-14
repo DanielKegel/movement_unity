@@ -71,27 +71,27 @@ public class FlashLight : MonoBehaviour
         Vector3 p_Velocity = new Vector3();
         if (Input.GetKey(KeyCode.W))
         {
-            p_Velocity += new Vector3(0,0.01f,0);
+            p_Velocity += new Vector3(0,0.03f,0);
         }
         if (Input.GetKey(KeyCode.S))
         {
-            p_Velocity += new Vector3(0, -0.01f,0);
+            p_Velocity += new Vector3(0, -0.03f,0);
         }
         if (Input.GetKey(KeyCode.A))
         {
-            p_Velocity += new Vector3(0.01f, 0, 0);
+            p_Velocity += new Vector3(0.03f, 0, 0);
         }
         if (Input.GetKey(KeyCode.D))
         {
-            p_Velocity += new Vector3(-0.01f, 0, 0);
+            p_Velocity += new Vector3(-0.03f, 0, 0);
         }
         if (Input.GetKey(KeyCode.Y))
         {
-            p_Velocity += new Vector3(0, 0, -0.01f);
+            p_Velocity += new Vector3(0, 0, -0.03f);
         }
         if (Input.GetKey(KeyCode.X))
         {
-            p_Velocity += new Vector3(0, 0, 0.01f);
+            p_Velocity += new Vector3(0, 0, 0.03f);
         }
         return p_Velocity;
     }
