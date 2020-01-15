@@ -600,7 +600,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: a4c42b9d-5f01-48f2-9871-4e27510660dd
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: movement_unity
   organizationId: danielkegel96
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
