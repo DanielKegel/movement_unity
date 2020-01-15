@@ -1,0 +1,8 @@
+Mode auf first person geändert
+
+-Taschenlampe an fps capsule gebunden --> bewegt sich mit Maus
+
+Lichtmodi geändert (aus und einschaltbar, modus auf rot wechselbar mit F und G)
+
+Allen gegenständen einen Collider gegeben (Haus ist sehr broken, dadurch sehr glitchy)
+--> Reset button gebaut, weil Character manchmal stecken bleibt)

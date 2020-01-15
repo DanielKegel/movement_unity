@@ -9,32 +9,68 @@ ModelImporter:
     100006: polySurface3
     100008: polySurface4
     100010: transform1
+    100012: Object310
+    100014: Object311
+    100016: transform2
+    100018: transform3
+    100020: transform4
+    100022: transform5
+    100024: polySurface5
+    100026: polySurface6
+    100028: polySurface7
+    100030: polySurface8
     400000: //RootNode
     400002: polySurface1
     400004: polySurface2
     400006: polySurface3
     400008: polySurface4
     400010: transform1
+    400012: Object310
+    400014: Object311
+    400016: transform2
+    400018: transform3
+    400020: transform4
+    400022: transform5
+    400024: polySurface5
+    400026: polySurface6
+    400028: polySurface7
+    400030: polySurface8
     2300000: //RootNode
     2300002: polySurface1
     2300004: polySurface2
     2300006: polySurface3
     2300008: polySurface4
+    2300010: Object311
+    2300012: polySurface5
+    2300014: polySurface7
+    2300016: polySurface8
     3300000: //RootNode
     3300002: polySurface1
     3300004: polySurface2
     3300006: polySurface3
     3300008: polySurface4
+    3300010: Object311
+    3300012: polySurface5
+    3300014: polySurface7
+    3300016: polySurface8
     4300000: Object308
     4300002: polySurface1
     4300004: polySurface2
     4300006: polySurface3
     4300008: polySurface4
+    4300010: Object311
+    4300012: polySurface5
+    4300014: polySurface7
+    4300016: polySurface8
     6400000: //RootNode
     6400002: polySurface1
     6400004: polySurface2
     6400006: polySurface3
     6400008: polySurface4
+    6400010: Object311
+    6400012: polySurface5
+    6400014: polySurface7
+    6400016: polySurface8
     2186277476908879412: ImportLogs
   externalObjects:
   - first:
